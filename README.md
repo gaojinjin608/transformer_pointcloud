@@ -17,8 +17,8 @@ pip install  pointnet2_ops_lib/.
 ```
 你可以从以下位置获取pointnet2_ops_lib https://github.com/erikwijmans/Pointnet2_PyTorch https://github.com/WangYueFt/dgcnn and https://github.com/MenghaoGuo/PCT
 
-### 模型
-ModelNet40(http://modelnet.cs.princeton.edu/)
+### 数据集
+模型的训练需要ModelNet40(http://modelnet.cs.princeton.edu/)数据集。
 
 ### 训练和验证
 ```shell script
